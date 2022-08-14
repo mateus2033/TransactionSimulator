@@ -1,0 +1,733 @@
+[2022-07-07T19:01:42.081969+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707190142"}
+[2022-07-07T19:01:42.752407+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707190142"}
+[2022-07-07T19:01:42.935341+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707190142"}
+[2022-07-07T19:01:43.133414+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707190143"}
+[2022-07-07T19:01:43.272296+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707190143"}
+[2022-07-07T19:40:23.517831+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194023"}
+[2022-07-07T19:40:58.071647+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194058"}
+[2022-07-07T19:45:50.710724+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194550"}
+[2022-07-07T19:46:14.425565+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194614"}
+[2022-07-07T19:46:36.949239+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194636"}
+[2022-07-07T19:46:55.832844+00:00] logs.DEBUG: UserLogged {"user":"35748703000187"} {"data":"20220707194655"}
+[2022-07-07T20:03:34.705277+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200334"}
+[2022-07-07T20:06:04.771808+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200604"}
+[2022-07-07T20:06:37.439924+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200637"}
+[2022-07-07T20:07:43.534473+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200743"}
+[2022-07-07T20:08:19.121158+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200819"}
+[2022-07-07T20:08:19.967538+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707200819"}
+[2022-07-07T20:16:10.210746+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707201610"}
+[2022-07-07T20:16:40.533364+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"\"kid\" empty, unable to lookup correct key"} {"data":"20220707201640"}
+[2022-07-07T20:37:35.692734+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Repository\\AuthenticationRepository\\AuthenticationRepository::testAuthentication()"} {"data":"20220707203735"}
+[2022-07-07T20:40:09.378364+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Repository\\AuthenticationRepository\\AuthenticationRepository::testAuthentication()"} {"data":"20220707204009"}
+[2022-07-07T20:58:32.007815+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220707205832"}
+[2022-07-07T20:58:44.093404+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220707205844"}
+[2022-07-12T01:26:07.017733+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220712012607"}
+[2022-07-14T13:40:23.519256+00:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220714134023"}
+[2022-07-14T13:57:40.136099+00:00] logs.DEBUG: UserLogged {"user":"82957769085"} {"data":"20220714135740"}
+[2022-07-14T13:57:42.020778+00:00] logs.DEBUG: UserLogged {"user":"82957769085"} {"data":"20220714135742"}
+[2022-07-14T13:57:55.178179+00:00] logs.DEBUG: UserLogged {"user":"82957769085"} {"data":"20220714135755"}
+[2022-07-14T14:19:43.507664+00:00] logs.DEBUG: UserLogged {"user":"82957769085"} {"data":"20220714141943"}
+[2022-07-14T22:25:41.745147-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220714222541"}
+[2022-07-14T22:28:25.952906-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220714222825"}
+[2022-07-14T22:28:26.906560-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220714222826"}
+[2022-07-14T22:28:27.414516-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220714222827"}
+[2022-07-14T22:37:23.390204-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220714223723"}
+[2022-07-15T16:23:01.314610-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162301"}
+[2022-07-15T16:23:38.578821-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162338"}
+[2022-07-15T16:23:39.253767-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162339"}
+[2022-07-15T16:23:39.856292-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162339"}
+[2022-07-15T16:25:06.982987-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162506"}
+[2022-07-15T16:25:09.724299-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162509"}
+[2022-07-15T16:25:58.144455-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715162558"}
+[2022-07-15T16:26:18.754927-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715162618"}
+[2022-07-15T16:26:58.677301-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715162658"}
+[2022-07-15T16:27:30.264648-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162730"}
+[2022-07-15T16:27:31.627651-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162731"}
+[2022-07-15T16:27:32.151377-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162732"}
+[2022-07-15T16:27:33.034554-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162733"}
+[2022-07-15T16:27:41.268678-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715162741"}
+[2022-07-15T16:30:19.062657-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163019"}
+[2022-07-15T16:35:02.854193-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163502"}
+[2022-07-15T16:35:31.839191-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163531"}
+[2022-07-15T16:37:21.346489-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163721"}
+[2022-07-15T16:37:21.845958-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163721"}
+[2022-07-15T16:37:22.131390-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163722"}
+[2022-07-15T16:37:22.293894-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163722"}
+[2022-07-15T16:37:22.434820-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163722"}
+[2022-07-15T16:37:22.575690-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715163722"}
+[2022-07-15T16:55:22.996153-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715165522"}
+[2022-07-15T16:55:23.976249-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220715165523"}
+[2022-07-15T16:55:48.798167-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715165548"}
+[2022-07-15T17:10:29.924866-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715171029"}
+[2022-07-15T17:10:30.404324-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715171030"}
+[2022-07-15T17:31:27.756286-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173127"}
+[2022-07-15T17:38:31.592740-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173831"}
+[2022-07-15T17:38:55.861345-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173855"}
+[2022-07-15T17:39:13.684593-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173913"}
+[2022-07-15T17:39:28.135693-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173928"}
+[2022-07-15T17:39:28.850907-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173928"}
+[2022-07-15T17:39:40.065413-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173940"}
+[2022-07-15T17:39:40.997798-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715173940"}
+[2022-07-15T17:40:17.425295-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715174017"}
+[2022-07-15T17:40:39.527156-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715174039"}
+[2022-07-15T17:40:40.760901-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220715174040"}
+[2022-07-15T17:42:46.723422-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220715174246"}
+[2022-07-15T17:42:49.932507-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220715174249"}
+[2022-07-18T09:27:02.502751-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220718092702"}
+[2022-07-18T09:27:03.290369-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220718092703"}
+[2022-07-18T22:31:44.839391-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220718223144"}
+[2022-07-18T22:31:45.753081-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220718223145"}
+[2022-07-19T14:04:20.153694-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140420"}
+[2022-07-19T14:04:21.034276-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140421"}
+[2022-07-19T14:04:22.204584-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140422"}
+[2022-07-19T14:04:22.879278-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140422"}
+[2022-07-19T14:04:23.283050-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140423"}
+[2022-07-19T14:04:23.631312-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140423"}
+[2022-07-19T14:04:23.789353-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140423"}
+[2022-07-19T14:04:23.963350-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140423"}
+[2022-07-19T14:04:38.101612-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140438"}
+[2022-07-19T14:05:04.846991-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140504"}
+[2022-07-19T14:05:33.887706-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140533"}
+[2022-07-19T14:05:46.067468-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140546"}
+[2022-07-19T14:06:24.075028-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719140624"}
+[2022-07-19T14:19:19.538395-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"required\"}"} {"data":"20220719141919"}
+[2022-07-19T14:19:49.854286-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719141949"}
+[2022-07-19T14:19:55.481725-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719141955"}
+[2022-07-19T14:20:04.150071-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142004"}
+[2022-07-19T14:20:05.085536-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142005"}
+[2022-07-19T14:20:05.702661-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142005"}
+[2022-07-19T14:20:05.926509-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142005"}
+[2022-07-19T14:20:17.175759-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142017"}
+[2022-07-19T14:20:31.409381-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142031"}
+[2022-07-19T14:20:40.049373-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142040"}
+[2022-07-19T14:26:44.094774-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"sdasdas\"}"} {"data":"20220719142644"}
+[2022-07-19T14:27:36.260333-03:00] logs.DEBUG: UserLogged {"user":"25788821000165"} {"data":"20220719142736"}
+[2022-07-19T14:29:30.915491-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220719142930"}
+[2022-07-19T14:29:41.103667-03:00] logs.DEBUG: UserLogged {"user":"25788821000165"} {"data":"20220719142941"}
+[2022-07-19T14:39:24.885222-03:00] logs.DEBUG: UserLogged {"user":"25788821000165"} {"data":"20220719143924"}
+[2022-07-19T17:31:46.419570-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719173146"}
+[2022-07-19T17:39:00.929108-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719173900"}
+[2022-07-19T17:39:07.310403-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719173907"}
+[2022-07-19T17:43:59.291960-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174359"}
+[2022-07-19T17:44:21.715072-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174421"}
+[2022-07-19T17:44:35.061872-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174435"}
+[2022-07-19T17:44:38.313979-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719174438"}
+[2022-07-19T17:44:56.259313-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174456"}
+[2022-07-19T17:45:25.357769-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719174525"}
+[2022-07-19T17:46:08.526172-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719174608"}
+[2022-07-19T17:46:13.289601-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174613"}
+[2022-07-19T17:46:38.807701-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174638"}
+[2022-07-19T17:49:32.717000-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719174932"}
+[2022-07-19T17:49:56.386045-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719174956"}
+[2022-07-19T17:50:01.120141-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175001"}
+[2022-07-19T17:50:06.601698-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175006"}
+[2022-07-19T17:50:07.497237-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175007"}
+[2022-07-19T17:50:08.301120-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175008"}
+[2022-07-19T17:50:08.754047-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175008"}
+[2022-07-19T17:50:08.916092-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175008"}
+[2022-07-19T17:50:09.069750-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175009"}
+[2022-07-19T17:50:09.226689-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175009"}
+[2022-07-19T17:50:09.371982-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175009"}
+[2022-07-19T17:50:09.510847-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175009"}
+[2022-07-19T17:52:53.973385-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175253"}
+[2022-07-19T17:55:19.523748-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175519"}
+[2022-07-19T17:56:12.855764-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719175612"}
+[2022-07-19T18:02:18.453253-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719180218"}
+[2022-07-19T18:18:01.946035-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719181801"}
+[2022-07-19T18:26:14.829912-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182614"}
+[2022-07-19T18:26:19.152413-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182619"}
+[2022-07-19T18:26:23.016728-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182623"}
+[2022-07-19T18:26:28.599001-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182628"}
+[2022-07-19T18:26:32.314915-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182632"}
+[2022-07-19T18:26:40.590724-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182640"}
+[2022-07-19T18:28:15.261925-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182815"}
+[2022-07-19T18:28:21.211991-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719182821"}
+[2022-07-19T18:39:11.731497-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719183911"}
+[2022-07-19T18:39:40.380886-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719183940"}
+[2022-07-19T18:39:44.313274-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719183944"}
+[2022-07-19T18:39:54.800244-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719183954"}
+[2022-07-19T18:39:59.704835-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719183959"}
+[2022-07-19T18:40:33.530405-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184033"}
+[2022-07-19T18:40:59.679821-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184059"}
+[2022-07-19T18:41:11.721650-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184111"}
+[2022-07-19T18:41:20.431421-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184120"}
+[2022-07-19T18:42:08.710099-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184208"}
+[2022-07-19T18:42:33.488028-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184233"}
+[2022-07-19T18:42:36.648305-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184236"}
+[2022-07-19T18:42:55.762366-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184255"}
+[2022-07-19T18:43:07.565836-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184307"}
+[2022-07-19T18:43:17.259950-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184317"}
+[2022-07-19T18:43:46.779256-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184346"}
+[2022-07-19T18:44:35.824448-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719184435"}
+[2022-07-19T18:50:36.524198-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719185036"}
+[2022-07-19T18:51:06.102283-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719185106"}
+[2022-07-19T18:51:09.079816-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719185109"}
+[2022-07-19T21:43:17.528407-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719214317"}
+[2022-07-19T21:43:34.785508-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220719214334"}
+[2022-07-19T23:04:49.676369-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719230449"}
+[2022-07-19T23:16:50.861574-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220719231650"}
+[2022-07-20T10:19:03.038883-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720101903"}
+[2022-07-20T10:19:15.171403-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720101915"}
+[2022-07-20T13:49:42.272869-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720134942"}
+[2022-07-20T13:49:50.468082-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220720134950"}
+[2022-07-20T13:56:53.539832-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720135653"}
+[2022-07-20T14:02:09.268273-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140209"}
+[2022-07-20T14:02:13.331294-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140213"}
+[2022-07-20T14:02:50.996790-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140250"}
+[2022-07-20T14:02:54.052697-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140254"}
+[2022-07-20T14:09:01.483376-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140901"}
+[2022-07-20T14:09:06.870898-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140906"}
+[2022-07-20T14:09:43.047818-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720140943"}
+[2022-07-20T14:10:02.357072-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141002"}
+[2022-07-20T14:10:15.261830-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141015"}
+[2022-07-20T14:10:18.662938-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141018"}
+[2022-07-20T14:10:33.740562-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141033"}
+[2022-07-20T14:10:38.899752-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141038"}
+[2022-07-20T14:11:09.610434-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141109"}
+[2022-07-20T14:11:10.509367-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141110"}
+[2022-07-20T14:11:10.988950-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141110"}
+[2022-07-20T14:11:11.159469-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141111"}
+[2022-07-20T14:11:19.720458-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141119"}
+[2022-07-20T14:12:08.046231-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141208"}
+[2022-07-20T14:12:19.502822-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141219"}
+[2022-07-20T14:12:22.345868-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141222"}
+[2022-07-20T14:13:40.473131-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141340"}
+[2022-07-20T14:13:46.135919-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141346"}
+[2022-07-20T14:14:01.277919-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141401"}
+[2022-07-20T14:14:17.975526-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141417"}
+[2022-07-20T14:15:28.062878-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141528"}
+[2022-07-20T14:15:46.067021-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141546"}
+[2022-07-20T14:15:52.077365-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141552"}
+[2022-07-20T14:16:14.600346-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141614"}
+[2022-07-20T14:16:38.017742-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141638"}
+[2022-07-20T14:16:47.931161-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141647"}
+[2022-07-20T14:17:04.862270-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141704"}
+[2022-07-20T14:17:05.505967-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141705"}
+[2022-07-20T14:17:46.318715-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720141746"}
+[2022-07-20T14:24:21.101073-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720142421"}
+[2022-07-20T14:24:39.956157-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720142439"}
+[2022-07-20T14:30:09.270453-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143009"}
+[2022-07-20T14:30:29.462609-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143029"}
+[2022-07-20T14:30:31.192408-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143031"}
+[2022-07-20T14:30:31.943484-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143031"}
+[2022-07-20T14:30:45.488097-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143045"}
+[2022-07-20T14:36:27.319410-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143627"}
+[2022-07-20T14:36:29.046692-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143629"}
+[2022-07-20T14:36:54.617734-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143654"}
+[2022-07-20T14:38:07.001862-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143807"}
+[2022-07-20T14:38:07.740894-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143807"}
+[2022-07-20T14:38:08.035083-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143808"}
+[2022-07-20T14:38:08.184993-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143808"}
+[2022-07-20T14:38:08.340701-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143808"}
+[2022-07-20T14:38:13.158780-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143813"}
+[2022-07-20T14:38:13.755129-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143813"}
+[2022-07-20T14:38:17.448032-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143817"}
+[2022-07-20T14:38:23.795421-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143823"}
+[2022-07-20T14:38:24.404810-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143824"}
+[2022-07-20T14:38:49.650788-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720143849"}
+[2022-07-20T14:41:56.616183-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144156"}
+[2022-07-20T14:42:18.626357-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144218"}
+[2022-07-20T14:43:53.733217-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144353"}
+[2022-07-20T14:44:06.330507-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144406"}
+[2022-07-20T14:44:48.032209-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144448"}
+[2022-07-20T14:45:03.710780-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144503"}
+[2022-07-20T14:45:20.245630-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144520"}
+[2022-07-20T14:49:52.526542-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720144952"}
+[2022-07-20T14:50:12.844718-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145012"}
+[2022-07-20T14:50:39.255899-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145039"}
+[2022-07-20T14:54:25.709378-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145425"}
+[2022-07-20T14:55:16.968428-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145516"}
+[2022-07-20T14:56:10.736450-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145610"}
+[2022-07-20T14:57:59.183466-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145759"}
+[2022-07-20T14:59:14.528535-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720145914"}
+[2022-07-20T15:00:38.050181-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150038"}
+[2022-07-20T15:00:52.238544-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150052"}
+[2022-07-20T15:01:44.467116-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150144"}
+[2022-07-20T15:01:58.665921-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150158"}
+[2022-07-20T15:01:58.984173-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150158"}
+[2022-07-20T15:03:25.587890-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150325"}
+[2022-07-20T15:03:30.419377-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150330"}
+[2022-07-20T15:05:06.383797-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150506"}
+[2022-07-20T15:05:12.346438-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150512"}
+[2022-07-20T15:05:13.457128-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150513"}
+[2022-07-20T15:05:13.987600-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150513"}
+[2022-07-20T15:05:14.165252-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150514"}
+[2022-07-20T15:05:15.123329-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150515"}
+[2022-07-20T15:05:27.636007-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150527"}
+[2022-07-20T15:07:30.511582-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150730"}
+[2022-07-20T15:07:39.543384-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150739"}
+[2022-07-20T15:07:46.146190-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150746"}
+[2022-07-20T15:09:19.024042-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150919"}
+[2022-07-20T15:09:30.662611-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150930"}
+[2022-07-20T15:09:56.692953-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720150956"}
+[2022-07-20T15:10:14.028253-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720151014"}
+[2022-07-20T15:10:36.672367-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720151036"}
+[2022-07-20T15:11:41.408806-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720151141"}
+[2022-07-20T15:11:50.626887-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720151150"}
+[2022-07-20T15:28:53.539089-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152853"}
+[2022-07-20T15:29:10.550316-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152910"}
+[2022-07-20T15:29:17.089153-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152917"}
+[2022-07-20T15:29:17.896330-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152917"}
+[2022-07-20T15:29:37.862839-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152937"}
+[2022-07-20T15:29:43.161193-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720152943"}
+[2022-07-20T15:30:21.128691-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153021"}
+[2022-07-20T15:30:26.056336-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153026"}
+[2022-07-20T15:30:38.968629-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153038"}
+[2022-07-20T15:31:04.029084-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153104"}
+[2022-07-20T15:31:22.065366-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153122"}
+[2022-07-20T15:31:30.154011-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153130"}
+[2022-07-20T15:33:12.030095-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720153312"}
+[2022-07-20T15:43:03.588973-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154303"}
+[2022-07-20T15:43:20.788756-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154320"}
+[2022-07-20T15:43:31.555570-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154331"}
+[2022-07-20T15:47:31.767120-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154731"}
+[2022-07-20T15:47:36.077572-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154736"}
+[2022-07-20T15:48:05.172794-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154805"}
+[2022-07-20T15:49:35.605528-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720154935"}
+[2022-07-20T15:52:36.753331-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720155236"}
+[2022-07-20T15:56:39.922755-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720155639"}
+[2022-07-20T16:52:26.568284-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720165226"}
+[2022-07-20T17:10:44.389027-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720171044"}
+[2022-07-20T17:10:56.629184-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720171056"}
+[2022-07-20T17:11:20.924769-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720171120"}
+[2022-07-20T17:27:22.166011-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720172722"}
+[2022-07-20T17:29:24.096751-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720172924"}
+[2022-07-20T17:29:36.077444-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720172936"}
+[2022-07-20T17:30:04.210561-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173004"}
+[2022-07-20T17:30:29.905873-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173029"}
+[2022-07-20T17:30:56.014436-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173056"}
+[2022-07-20T17:31:08.952531-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173108"}
+[2022-07-20T17:31:37.742507-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173137"}
+[2022-07-20T17:32:37.601788-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173237"}
+[2022-07-20T17:32:38.206800-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173238"}
+[2022-07-20T17:32:38.997160-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173238"}
+[2022-07-20T17:32:55.253707-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173255"}
+[2022-07-20T17:33:14.521583-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173314"}
+[2022-07-20T17:33:15.105000-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173315"}
+[2022-07-20T17:33:15.264994-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173315"}
+[2022-07-20T17:33:15.468753-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173315"}
+[2022-07-20T17:33:20.343246-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173320"}
+[2022-07-20T17:34:00.604927-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173400"}
+[2022-07-20T17:37:31.955456-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720173731"}
+[2022-07-20T17:46:46.382093-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720174646"}
+[2022-07-20T17:48:02.421173-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720174802"}
+[2022-07-20T17:49:15.494633-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720174915"}
+[2022-07-20T17:49:22.455619-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720174922"}
+[2022-07-20T17:50:03.676000-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175003"}
+[2022-07-20T17:52:44.084354-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175244"}
+[2022-07-20T17:54:35.045597-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175435"}
+[2022-07-20T17:55:08.096710-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175508"}
+[2022-07-20T17:55:29.168436-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175529"}
+[2022-07-20T17:57:19.645582-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175719"}
+[2022-07-20T17:57:36.749406-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trilha.account_holders' doesn't exist (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220720175736"}
+[2022-07-20T17:57:47.323098-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trilha.account_holders' doesn't exist (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220720175747"}
+[2022-07-20T17:58:01.060909-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220720175801"}
+[2022-07-20T17:58:49.234792-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720175849"}
+[2022-07-20T18:02:44.482715-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180244"}
+[2022-07-20T18:03:27.856713-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180327"}
+[2022-07-20T18:03:44.832068-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180344"}
+[2022-07-20T18:04:01.420245-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180401"}
+[2022-07-20T18:04:02.093621-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180402"}
+[2022-07-20T18:04:06.981255-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180406"}
+[2022-07-20T18:04:07.672914-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180407"}
+[2022-07-20T18:04:56.150352-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180456"}
+[2022-07-20T18:04:56.803351-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180456"}
+[2022-07-20T18:05:41.540574-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"key must be a string when using hmac"} {"data":"20220720180541"}
+[2022-07-20T18:06:06.723664-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180606"}
+[2022-07-20T18:06:23.210231-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180623"}
+[2022-07-20T18:06:43.936634-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180643"}
+[2022-07-20T18:07:08.834772-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180708"}
+[2022-07-20T18:07:39.415701-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180739"}
+[2022-07-20T18:08:28.623742-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180828"}
+[2022-07-20T18:08:53.693861-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180853"}
+[2022-07-20T18:09:50.042490-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720180950"}
+[2022-07-20T18:11:16.677203-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181116"}
+[2022-07-20T18:12:07.889110-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181207"}
+[2022-07-20T18:12:35.062595-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181235"}
+[2022-07-20T18:15:40.721204-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181540"}
+[2022-07-20T18:17:17.071246-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181717"}
+[2022-07-20T18:18:20.639597-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181820"}
+[2022-07-20T18:18:44.907711-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181844"}
+[2022-07-20T18:19:05.251219-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181905"}
+[2022-07-20T18:19:05.909695-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181905"}
+[2022-07-20T18:19:06.311555-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181906"}
+[2022-07-20T18:19:06.485978-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181906"}
+[2022-07-20T18:19:16.531160-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181916"}
+[2022-07-20T18:19:17.295809-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181917"}
+[2022-07-20T18:19:30.022427-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181930"}
+[2022-07-20T18:19:30.590309-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181930"}
+[2022-07-20T18:19:30.887542-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181930"}
+[2022-07-20T18:19:31.031307-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181931"}
+[2022-07-20T18:19:31.185186-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181931"}
+[2022-07-20T18:19:31.354624-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181931"}
+[2022-07-20T18:19:31.513313-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181931"}
+[2022-07-20T18:19:42.994000-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720181942"}
+[2022-07-20T18:21:30.377735-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182130"}
+[2022-07-20T18:21:52.591276-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182152"}
+[2022-07-20T18:21:59.328637-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182159"}
+[2022-07-20T18:22:01.512226-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182201"}
+[2022-07-20T18:22:01.947976-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182201"}
+[2022-07-20T18:22:02.287918-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182202"}
+[2022-07-20T18:22:02.453736-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182202"}
+[2022-07-20T18:22:33.498087-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182233"}
+[2022-07-20T18:24:11.919804-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182411"}
+[2022-07-20T18:24:19.683051-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182419"}
+[2022-07-20T18:24:39.893383-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182439"}
+[2022-07-20T18:24:42.949142-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182442"}
+[2022-07-20T18:24:50.341594-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720182450"}
+[2022-07-20T18:30:20.973214-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720183020"}
+[2022-07-20T18:31:24.178681-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220720183124"}
+[2022-07-21T08:05:47.052564-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721080547"}
+[2022-07-21T08:08:49.037085-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721080849"}
+[2022-07-21T08:09:11.461120-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721080911"}
+[2022-07-21T08:11:49.069646-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721081149"}
+[2022-07-21T08:12:02.649310-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721081202"}
+[2022-07-21T08:28:23.631908-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721082823"}
+[2022-07-21T08:28:24.532650-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721082824"}
+[2022-07-21T08:28:25.435798-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721082825"}
+[2022-07-21T08:28:48.089058-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721082848"}
+[2022-07-21T08:29:16.827016-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721082916"}
+[2022-07-21T08:30:03.473507-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721083003"}
+[2022-07-21T08:45:05.394392-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721084505"}
+[2022-07-21T08:51:31.579974-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721085131"}
+[2022-07-21T09:01:30.387423-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721090130"}
+[2022-07-21T09:03:14.392068-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721090314"}
+[2022-07-21T09:05:31.751921-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721090531"}
+[2022-07-21T11:23:13.195176-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721112313"}
+[2022-07-21T11:56:10.831532-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721115610"}
+[2022-07-21T11:57:45.757885-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721115745"}
+[2022-07-21T11:57:50.765290-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721115750"}
+[2022-07-21T12:03:30.869056-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721120330"}
+[2022-07-21T12:04:08.877436-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721120408"}
+[2022-07-21T12:04:53.398729-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721120453"}
+[2022-07-21T12:05:29.853784-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721120529"}
+[2022-07-21T12:06:29.672081-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721120629"}
+[2022-07-21T14:04:07.780212-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721140407"}
+[2022-07-21T14:36:26.858954-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721143626"}
+[2022-07-21T14:51:03.099519-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721145103"}
+[2022-07-21T14:52:37.814005-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721145237"}
+[2022-07-21T14:56:07.168019-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721145607"}
+[2022-07-21T14:57:16.717984-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220721145716"}
+[2022-07-21T14:58:53.114284-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721145853"}
+[2022-07-21T15:00:26.014425-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220721150026"}
+[2022-07-22T08:13:03.383739-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722081303"}
+[2022-07-22T10:22:44.533821-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722102244"}
+[2022-07-22T10:25:46.439589-03:00] logs.DEBUG: UserLogged {"user":"51696790000122"} {"data":"20220722102546"}
+[2022-07-22T10:27:25.861391-03:00] logs.DEBUG: UserLogged {"user":"45038280000165"} {"data":"20220722102725"}
+[2022-07-22T10:47:36.315399-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722104736"}
+[2022-07-22T10:48:26.169655-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722104826"}
+[2022-07-22T10:49:17.344609-03:00] logs.DEBUG: UserLogged {"user":"45038280000165"} {"data":"20220722104917"}
+[2022-07-22T10:56:16.354803-03:00] logs.DEBUG: UserLogged {"user":"45038280000165"} {"data":"20220722105616"}
+[2022-07-22T11:02:56.842597-03:00] logs.DEBUG: UserLogged {"user":"45038280000165"} {"data":"20220722110256"}
+[2022-07-22T11:13:45.285679-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722111345"}
+[2022-07-22T11:15:34.970581-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722111534"}
+[2022-07-22T11:16:06.101557-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722111606"}
+[2022-07-22T11:16:08.008288-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722111608"}
+[2022-07-22T11:16:26.354788-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722111626"}
+[2022-07-22T11:43:23.201549-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722114323"}
+[2022-07-22T11:47:29.752648-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722114729"}
+[2022-07-22T11:48:30.381429-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722114830"}
+[2022-07-22T11:56:18.546076-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722115618"}
+[2022-07-22T14:21:51.945320-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722142151"}
+[2022-07-22T14:22:06.117763-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722142206"}
+[2022-07-22T14:22:06.943191-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722142206"}
+[2022-07-22T14:29:09.604145-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722142909"}
+[2022-07-22T14:30:41.552732-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722143041"}
+[2022-07-22T14:30:42.240146-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722143042"}
+[2022-07-22T14:31:08.505013-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722143108"}
+[2022-07-22T14:31:30.030449-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722143130"}
+[2022-07-22T14:32:12.824677-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722143212"}
+[2022-07-22T15:21:04.837379-03:00] logs.DEBUG: UserLogged {"user":"49393229000122"} {"data":"20220722152104"}
+[2022-07-22T15:25:43.727720-03:00] logs.DEBUG: UserLogged {"user":"49393229000122"} {"data":"20220722152543"}
+[2022-07-22T15:28:06.895429-03:00] logs.DEBUG: UserLogged {"user":"49393229000122"} {"data":"20220722152806"}
+[2022-07-22T15:59:37.244131-03:00] logs.DEBUG: UserLogged {"user":"49393229000122"} {"data":"20220722155937"}
+[2022-07-22T16:10:29.486084-03:00] logs.DEBUG: UserLogged {"user":"49393229000122"} {"data":"20220722161029"}
+[2022-07-22T16:20:54.233514-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722162054"}
+[2022-07-22T16:21:05.062197-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722162105"}
+[2022-07-22T16:33:20.061821-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722163320"}
+[2022-07-22T16:33:34.618664-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220722163334"}
+[2022-07-23T18:10:25.591687-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220723181025"}
+[2022-07-23T18:14:32.150771-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220723181432"}
+[2022-07-23T18:14:39.437393-03:00] logs.DEBUG: UserLogged {"user":"76533746030"} {"data":"20220723181439"}
+[2022-07-23T21:00:12.984835-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220723210012"}
+[2022-07-23T22:24:18.526797-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220723222418"}
+[2022-07-23T22:31:42.817434-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220723223142"}
+[2022-07-23T22:32:54.502260-03:00] logs.DEBUG: UserLogged {"user":"14691247000106"} {"data":"20220723223254"}
+[2022-07-23T22:34:54.176690-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220723223454"}
+[2022-07-23T22:36:08.549869-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidCPF\",\"password\":\"123456\"}"} {"data":"20220723223608"}
+[2022-07-23T22:36:29.398601-03:00] logs.DEBUG: UserLogged {"user":"14691247000106"} {"data":"20220723223629"}
+[2022-07-23T22:37:00.326791-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220723223700"}
+[2022-07-25T08:51:15.117406-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220725085115"}
+[2022-07-25T13:59:21.833680-03:00] logs.DEBUG: UserLogged {"user":"32879615000126"} {"data":"20220725135921"}
+[2022-07-25T14:13:46.519386-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220725141346"}
+[2022-07-25T14:16:19.570786-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220725141619"}
+[2022-07-25T14:36:20.891977-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725143620"}
+[2022-07-25T14:36:32.222652-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725143632"}
+[2022-07-25T14:38:37.450873-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725143837"}
+[2022-07-25T14:40:05.151456-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144005"}
+[2022-07-25T14:40:10.473388-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725144010"}
+[2022-07-25T14:40:43.229823-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144043"}
+[2022-07-25T14:40:58.256829-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144058"}
+[2022-07-25T14:41:16.525964-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144116"}
+[2022-07-25T14:41:26.477503-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144126"}
+[2022-07-25T14:42:01.711369-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144201"}
+[2022-07-25T14:42:11.506680-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144211"}
+[2022-07-25T14:43:33.899558-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144333"}
+[2022-07-25T14:44:01.114208-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144401"}
+[2022-07-25T14:44:08.761818-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"asd\"}"} {"data":"20220725144408"}
+[2022-07-25T14:44:20.864017-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144420"}
+[2022-07-25T14:44:23.471976-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"sd\"}"} {"data":"20220725144423"}
+[2022-07-25T14:44:33.562263-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144433"}
+[2022-07-25T14:44:38.277652-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"asdasd\"}"} {"data":"20220725144438"}
+[2022-07-25T14:45:18.512849-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"sdasd\"}"} {"data":"20220725144518"}
+[2022-07-25T14:46:02.287333-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"sd\"}"} {"data":"20220725144602"}
+[2022-07-25T14:46:07.681024-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725144607"}
+[2022-07-25T14:46:47.077144-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725144647"}
+[2022-07-25T14:46:53.002693-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725144653"}
+[2022-07-25T15:00:53.151061-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"asdasd\"}"} {"data":"20220725150053"}
+[2022-07-25T15:01:14.377545-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725150114"}
+[2022-07-25T15:01:22.460373-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725150122"}
+[2022-07-25T15:01:29.496249-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725150129"}
+[2022-07-25T15:01:31.203115-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725150131"}
+[2022-07-25T15:01:59.575232-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725150159"}
+[2022-07-25T15:20:57.624229-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152057"}
+[2022-07-25T15:21:27.834900-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152127"}
+[2022-07-25T15:21:49.489295-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152149"}
+[2022-07-25T15:22:15.438779-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152215"}
+[2022-07-25T15:22:36.423230-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152236"}
+[2022-07-25T15:24:07.683913-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152407"}
+[2022-07-25T15:24:31.026099-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152431"}
+[2022-07-25T15:24:40.709118-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152440"}
+[2022-07-25T15:24:44.016088-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152444"}
+[2022-07-25T15:24:51.272422-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152451"}
+[2022-07-25T15:25:05.786762-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152505"}
+[2022-07-25T15:26:00.469408-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152600"}
+[2022-07-25T15:26:40.528819-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152640"}
+[2022-07-25T15:26:50.426111-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725152650"}
+[2022-07-25T15:32:42.884648-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725153242"}
+[2022-07-25T15:32:54.808340-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"required\"}"} {"data":"20220725153254"}
+[2022-07-25T15:40:02.176401-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725154002"}
+[2022-07-25T15:58:46.040945-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725155846"}
+[2022-07-25T16:03:56.413885-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220725160356"}
+[2022-07-25T16:04:33.180009-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725160433"}
+[2022-07-25T16:05:18.755956-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220725160518"}
+[2022-07-25T16:59:08.395729-03:00] logs.DEBUG: UserLogged {"user":"06443251000127"} {"data":"20220725165908"}
+[2022-07-26T10:33:13.327359-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726103313"}
+[2022-07-26T10:33:28.846488-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726103328"}
+[2022-07-26T10:33:29.490125-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726103329"}
+[2022-07-26T10:34:46.307492-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726103446"}
+[2022-07-26T10:34:46.920346-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726103446"}
+[2022-07-26T10:36:49.719219-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220726103649"}
+[2022-07-26T10:43:35.740776-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220726104335"}
+[2022-07-26T10:44:04.243416-03:00] logs.DEBUG: UserLogged {"user":"42894896000140"} {"data":"20220726104404"}
+[2022-07-26T10:47:27.464871-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220726104727"}
+[2022-07-26T10:47:44.941684-03:00] logs.DEBUG: UserLogged {"user":"42894896000140"} {"data":"20220726104744"}
+[2022-07-26T10:48:36.509056-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220726104836"}
+[2022-07-26T10:49:19.243066-03:00] logs.DEBUG: UserLogged {"user":"42894896000140"} {"data":"20220726104919"}
+[2022-07-26T10:49:35.521492-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220726104935"}
+[2022-07-26T10:50:00.834986-03:00] logs.DEBUG: UserLogged {"user":"42894896000140"} {"data":"20220726105000"}
+[2022-07-26T11:45:24.262057-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220726114524"}
+[2022-07-26T13:27:56.857891-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726132756"}
+[2022-07-26T13:27:57.905606-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726132757"}
+[2022-07-26T13:28:40.154864-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726132840"}
+[2022-07-26T15:27:48.012107-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726152748"}
+[2022-07-26T15:27:48.843560-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726152748"}
+[2022-07-26T15:28:21.923150-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726152821"}
+[2022-07-26T15:28:22.638174-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726152822"}
+[2022-07-26T16:16:24.098575-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161624"}
+[2022-07-26T16:16:36.890087-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161636"}
+[2022-07-26T16:16:37.628172-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161637"}
+[2022-07-26T16:16:38.429178-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161638"}
+[2022-07-26T16:16:38.869683-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161638"}
+[2022-07-26T16:16:39.213757-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161639"}
+[2022-07-26T16:16:39.532596-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161639"}
+[2022-07-26T16:16:39.744423-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161639"}
+[2022-07-26T16:16:39.930461-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161639"}
+[2022-07-26T16:16:40.092741-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726161640"}
+[2022-07-26T16:24:08.555621-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726162408"}
+[2022-07-26T16:24:08.717151-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726162408"}
+[2022-07-26T16:24:08.885426-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726162408"}
+[2022-07-26T22:20:59.994520-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726222059"}
+[2022-07-26T22:21:00.627773-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726222100"}
+[2022-07-26T22:21:01.232703-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726222101"}
+[2022-07-26T22:21:01.419707-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726222101"}
+[2022-07-26T22:21:01.657826-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220726222101"}
+[2022-07-27T11:59:14.275795-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220727115914"}
+[2022-07-27T11:59:16.633812-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220727115916"}
+[2022-07-27T11:59:17.316265-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220727115917"}
+[2022-07-27T11:59:18.032757-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"required\"}"} {"data":"20220727115918"}
+[2022-07-27T11:59:48.135965-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727115948"}
+[2022-07-27T12:00:46.803324-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120046"}
+[2022-07-27T12:00:47.292645-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120047"}
+[2022-07-27T12:00:47.575070-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120047"}
+[2022-07-27T12:00:47.728995-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120047"}
+[2022-07-27T12:00:48.360538-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120048"}
+[2022-07-27T12:00:48.527006-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120048"}
+[2022-07-27T12:00:48.682405-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120048"}
+[2022-07-27T12:00:48.841019-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120048"}
+[2022-07-27T12:00:49.013902-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:49.179863-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:49.345417-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:49.525664-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:49.689174-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:49.845383-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120049"}
+[2022-07-27T12:00:50.010819-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120050"}
+[2022-07-27T12:00:50.197776-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120050"}
+[2022-07-27T12:00:50.331138-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727120050"}
+[2022-07-27T12:13:48.073558-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727121348"}
+[2022-07-27T12:13:48.550002-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727121348"}
+[2022-07-27T12:13:48.730160-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727121348"}
+[2022-07-27T12:13:49.021881-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (SQL: select * from `account_holders` where `cpf` = 14701321761 limit 1)"} {"data":"20220727121349"}
+[2022-07-27T12:15:17.489202-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220727121517"}
+[2022-07-27T13:38:11.000942-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220727133811"}
+[2022-07-27T14:04:27.364094-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220727140427"}
+[2022-07-27T14:04:31.278258-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220727140431"}
+[2022-07-27T21:23:28.586343-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220727212328"}
+[2022-07-27T21:23:29.306006-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220727212329"}
+[2022-07-27T21:34:00.396077-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220727213400"}
+[2022-07-28T09:24:12.321294-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220728092412"}
+[2022-07-28T09:26:11.858956-03:00] logs.DEBUG: UserLogged {"user":"34245452013"} {"data":"20220728092611"}
+[2022-07-28T09:26:12.661771-03:00] logs.DEBUG: UserLogged {"user":"34245452013"} {"data":"20220728092612"}
+[2022-07-29T10:56:00.138764-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"required\",\"password\":\"123456\"}"} {"data":"20220729105600"}
+[2022-07-29T10:56:12.672064-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220729105612"}
+[2022-07-29T11:07:17.228946-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729110717"}
+[2022-07-29T11:07:24.710885-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220729110724"}
+[2022-07-29T11:07:27.337022-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729110727"}
+[2022-07-29T11:08:27.892646-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729110827"}
+[2022-07-29T11:18:38.664662-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729111838"}
+[2022-07-29T11:30:09.800256-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729113009"}
+[2022-07-29T11:30:41.862181-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220729113041"}
+[2022-07-29T11:30:44.807711-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729113044"}
+[2022-07-29T11:31:55.523294-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729113155"}
+[2022-07-29T11:35:16.389930-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113516"}
+[2022-07-29T11:35:47.397503-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113547"}
+[2022-07-29T11:36:53.645477-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113653"}
+[2022-07-29T11:37:31.618186-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113731"}
+[2022-07-29T11:37:47.618927-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113747"}
+[2022-07-29T11:37:48.242672-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113748"}
+[2022-07-29T11:38:01.959035-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113801"}
+[2022-07-29T11:38:02.554837-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113802"}
+[2022-07-29T11:38:29.788582-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729113829"}
+[2022-07-29T11:41:28.648936-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729114128"}
+[2022-07-29T11:41:31.480878-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729114131"}
+[2022-07-29T11:41:48.787786-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"Call to undefined method Source\\Model\\PhysicalPersonModel::authenticationLegalPerson()"} {"data":"20220729114148"}
+[2022-07-29T11:42:23.688412-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729114223"}
+[2022-07-29T11:42:46.544979-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729114246"}
+[2022-07-29T11:43:51.260181-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidCPF\",\"password\":\"123456\"}"} {"data":"20220729114351"}
+[2022-07-29T11:44:24.943669-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729114424"}
+[2022-07-29T11:57:16.179394-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729115716"}
+[2022-07-29T11:58:22.348429-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729115822"}
+[2022-07-29T11:58:23.261236-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729115823"}
+[2022-07-29T12:02:57.405851-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729120257"}
+[2022-07-29T14:45:05.794135-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144505"}
+[2022-07-29T14:45:06.473804-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144506"}
+[2022-07-29T14:45:07.140256-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144507"}
+[2022-07-29T14:47:01.268322-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144701"}
+[2022-07-29T14:47:02.124493-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144702"}
+[2022-07-29T14:47:02.285111-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144702"}
+[2022-07-29T14:47:02.501612-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144702"}
+[2022-07-29T14:47:02.625059-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729144702"}
+[2022-07-29T15:18:03.832723-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220729151803"}
+[2022-07-29T15:18:17.669471-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729151817"}
+[2022-07-29T15:52:28.262428-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729155228"}
+[2022-07-29T15:53:33.156812-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729155333"}
+[2022-07-29T15:53:33.767241-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220729155333"}
+[2022-07-31T10:35:19.423575-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731103519"}
+[2022-07-31T10:40:07.974665-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731104007"}
+[2022-07-31T10:40:08.532730-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731104008"}
+[2022-07-31T10:40:08.773516-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731104008"}
+[2022-07-31T17:47:55.794293-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731174755"}
+[2022-07-31T17:47:57.017297-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731174757"}
+[2022-07-31T17:48:31.591727-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731174831"}
+[2022-07-31T17:48:35.729000-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731174835"}
+[2022-07-31T22:15:28.903809-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221528"}
+[2022-07-31T22:16:04.749150-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221604"}
+[2022-07-31T22:16:36.371102-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221636"}
+[2022-07-31T22:16:37.424266-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221637"}
+[2022-07-31T22:16:37.664177-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221637"}
+[2022-07-31T22:16:37.839259-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221637"}
+[2022-07-31T22:16:51.055192-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221651"}
+[2022-07-31T22:17:08.324751-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731221708"}
+[2022-07-31T22:20:15.904799-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731222015"}
+[2022-07-31T22:20:28.361371-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731222028"}
+[2022-07-31T22:21:59.972152-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731222159"}
+[2022-07-31T22:30:25.321144-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731223025"}
+[2022-07-31T22:31:20.154308-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731223120"}
+[2022-07-31T22:31:23.075497-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731223123"}
+[2022-07-31T22:34:21.632432-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731223421"}
+[2022-07-31T22:34:51.079098-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731223451"}
+[2022-07-31T22:35:00.494802-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220731223500"}
+[2022-07-31T22:35:29.837575-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731223529"}
+[2022-07-31T22:41:36.422317-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224136"}
+[2022-07-31T22:41:39.159705-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224139"}
+[2022-07-31T22:42:05.824659-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224205"}
+[2022-07-31T22:42:15.061424-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224215"}
+[2022-07-31T22:42:28.547122-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224228"}
+[2022-07-31T22:43:18.615697-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224318"}
+[2022-07-31T22:43:23.838512-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224323"}
+[2022-07-31T22:43:45.493289-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224345"}
+[2022-07-31T22:46:15.098590-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224615"}
+[2022-07-31T22:47:40.923145-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224740"}
+[2022-07-31T22:49:40.775759-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224940"}
+[2022-07-31T22:49:44.272317-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224944"}
+[2022-07-31T22:49:44.966855-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731224944"}
+[2022-07-31T22:49:58.011319-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731224958"}
+[2022-07-31T22:50:02.096377-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"login\":\"invalidLogin\",\"password\":\"123456\"}"} {"data":"20220731225002"}
+[2022-07-31T22:50:09.486406-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731225009"}
+[2022-07-31T22:50:14.907436-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220731225014"}
+[2022-07-31T22:50:20.773151-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220731225020"}
+[2022-07-31T22:50:38.691067-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731225038"}
+[2022-07-31T22:51:41.928671-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731225141"}
+[2022-07-31T22:53:05.999144-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731225305"}
+[2022-07-31T22:53:37.232022-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731225337"}
+[2022-07-31T22:54:39.124519-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731225439"}
+[2022-07-31T22:54:52.621270-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731225452"}
+[2022-07-31T22:57:06.971479-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731225706"}
+[2022-07-31T23:11:51.939640-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731231151"}
+[2022-07-31T23:20:26.801359-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220731232026"}
+[2022-07-31T23:30:07.718302-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731233007"}
+[2022-07-31T23:48:51.932251-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731234851"}
+[2022-07-31T23:49:39.116974-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731234939"}
+[2022-07-31T23:50:41.092967-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731235041"}
+[2022-07-31T23:54:34.733359-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731235434"}
+[2022-07-31T23:58:39.482039-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731235839"}
+[2022-07-31T23:58:47.940634-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220731235847"}
+[2022-08-01T08:16:06.457326-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801081606"}
+[2022-08-01T08:37:29.829896-03:00] logs.DEBUG: UserLogged {"user":"43507606000120"} {"data":"20220801083729"}
+[2022-08-01T09:12:20.781030-03:00] logs.DEBUG: UserLogged {"user":"42101187027"} {"data":"20220801091220"}
+[2022-08-01T09:12:54.397765-03:00] logs.DEBUG: UserLogged {"user":"68672910000154"} {"data":"20220801091254"}
+[2022-08-01T09:19:13.354870-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801091913"}
+[2022-08-01T13:28:44.892001-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801132844"}
+[2022-08-01T13:50:22.148254-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801135022"}
+[2022-08-01T16:37:48.996795-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801163748"}
+[2022-08-01T17:27:20.422454-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801172720"}
+[2022-08-01T17:31:45.775826-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801173145"}
+[2022-08-01T18:21:40.309318-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801182140"}
+[2022-08-01T18:47:33.343143-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801184733"}
+[2022-08-01T18:47:52.194449-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801184752"}
+[2022-08-01T18:48:17.919259-03:00] logs.DEBUG: UserLogged {"user":"33200229039"} {"data":"20220801184817"}
+[2022-08-01T19:03:18.434811-03:00] logs.DEBUG: UserLogged {"user":"37299883000192"} {"data":"20220801190318"}
+[2022-08-01T19:59:56.096700-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801195956"}
+[2022-08-01T20:01:11.389597-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220801200111"}
+[2022-08-01T20:01:30.721463-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220801200130"}
+[2022-08-02T08:18:58.072967-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220802081858"}
+[2022-08-02T08:25:12.587873-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220802082512"}
+[2022-08-02T08:36:10.174694-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220802083610"}
+[2022-08-02T08:41:39.765771-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220802084139"}
+[2022-08-02T08:50:36.945875-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220802085036"}
+[2022-08-02T11:30:57.393377-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220802113057"}
+[2022-08-02T11:30:58.418517-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220802113058"}
+[2022-08-02T11:47:14.319519-03:00] logs.DEBUG: UserLogged {"user":"23385045002"} {"data":"20220802114714"}
+[2022-08-02T11:53:48.133556-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220802115348"}
+[2022-08-03T11:11:01.317938-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [2002] No such file or directory (SQL: select * from `legal_persons` where `cnpj` = 43507606000120 limit 1)"} {"data":"20220803111101"}
+[2022-08-03T11:11:07.787360-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [2002] No such file or directory (SQL: select * from `legal_persons` where `cnpj` = 43507606000120 limit 1)"} {"data":"20220803111107"}
+[2022-08-03T15:45:50.905996-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"User does not exist\"}"} {"data":"20220803154550"}
+[2022-08-03T15:49:22.326253-03:00] logs.DEBUG: UserLogged {"user":"05129289000167"} {"data":"20220803154922"}
+[2022-08-03T17:45:32.230057-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220803174532"}
+[2022-08-04T09:20:39.581541-03:00] logs.DEBUG: UserLogged {"user":"14701321761"} {"data":"20220804092039"}
+[2022-08-04T15:35:52.319257-03:00] logs.DEBUG: UserLogged {"user":"86831661041"} {"data":"20220804153552"}
+[2022-08-04T15:36:03.078820-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"{\"message\":\"Username or password is invalid\"}"} {"data":"20220804153603"}
+[2022-08-04T15:36:09.112447-03:00] logs.DEBUG: UserLogged {"user":"86831661041"} {"data":"20220804153609"}
+[2022-08-04T16:14:45.963795-03:00] logs.DEBUG: UserLogged {"user":"86831661041"} {"data":"20220804161445"}
+[2022-08-12T16:17:15.152298-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [2002] No such file or directory (SQL: select * from `physical_persons` where `cpf` = 14701321761 limit 1)"} {"data":"20220812161715"}
+[2022-08-12T16:17:47.198119-03:00] logs.ERROR: ErrorCreatingAccountHolder {"user":"SQLSTATE[HY000] [2002] No such file or directory (SQL: select * from `physical_persons` where `cpf` = 14701321761 limit 1)"} {"data":"20220812161747"}

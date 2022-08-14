@@ -1,0 +1,40 @@
+{
+    "name": "root/htdocs",
+    "description": "Simulador de Transão Bancaria",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateus",
+            "email": "mateus2033@outlook.com"
+        }
+    ],
+
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\":"source"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+
+    "require": {
+        
+        "robmorgan/phinx": "^0.12.10",
+        "monolog/monolog": "^2.6",
+        "erandir/plug-route": "^4.4",
+        "illuminate/database":"^8.83.18",
+        "illuminate/events": "^8.83",
+        "erandir/plug-http": "^2.0",
+        "php-di/php-di": "^6.4",
+        "firebase/php-jwt": "^6.2",
+        "pecee/simple-router": "4.3.7.2",
+        "league/container": "^4.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
